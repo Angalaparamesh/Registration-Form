@@ -22,4 +22,4 @@ Empty Name Field: If the user attempts to submit the form with an empty Name fie
 Invalid Email Format: If the user enters an invalid email format (e.g., user@domain instead of user@domain.com), an error message will appear.
 Short Password: If the password is less than 6 characters, an error message will be displayed, and the submit button will be disabled.
 
-checkout Link: []
+checkout Link: [https://angalaparamesh.github.io/Registration-Form/]
